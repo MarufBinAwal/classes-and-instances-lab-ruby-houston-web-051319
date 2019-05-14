@@ -1,6 +1,7 @@
 class Dog 
   
-  def dog1 = "fido"
+  
+   = "fido"
   end
   
   def dog2 = "snoopy"
