@@ -1,9 +1,9 @@
 class Person
   
-  def adele_goldberg = "adele_goldberg"
-  
+  def initialize(name)
+    
+    @adel_goldberg = "adel_goldberg"
+    @alan_kay = "alan_kay"
+    
+    
   end
-  
-  def alan_kay = "alan_kay"
-  
-end
